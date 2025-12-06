@@ -2,6 +2,8 @@
 
 戦略的なAI対戦相手と対戦できるオセロ（リバーシ）ゲームです。ReactとViteで構築されています。
 
+**[🎮 今すぐプレイ](https://mitsumizo.github.io/othello/)**
+
 ## 特徴
 
 ### ゲーム機能
